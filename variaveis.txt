@@ -1,0 +1,11 @@
+
+nv          => variables_number
+LimU        => upper_limit
+LimL        => lower_limit
+np          => population_size
+kmax        => generations
+CR          => crossover_factor
+F           => mutation_factor
+
+
+
